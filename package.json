@@ -13,17 +13,17 @@
     "license": "ISC",
     "devDependencies": {
         "env-cmd": "^10.1.0",
-        "nodemon": "^2.0.3"
+        "nodemon": "^2.0.6"
     },
     "dependencies": {
         "bcryptjs": "^2.4.3",
-        "ejs": "^3.0.2",
+        "ejs": "^3.1.5",
         "express": "^4.17.1",
         "express-flash": "0.0.2",
         "express-session": "^1.17.1",
-        "helmet": "^3.22.0",
+        "helmet": "^3.23.3",
         "method-override": "^3.0.0",
-        "mongoose": "^5.9.9",
+        "mongoose": "^5.11.7",
         "passport": "^0.4.1",
         "passport-local": "^1.0.0"
     }
